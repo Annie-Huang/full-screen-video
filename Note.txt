@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=Gx_7GQtSdpc
 https://codepen.io/bradtraversy/pen/BaoWWjb
 https://github.com/Annie-Huang/full-screen-video
 
+https://cdnjs.com/libraries/font-awesome
+
 ===================================================
 
 
