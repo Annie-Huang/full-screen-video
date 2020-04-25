@@ -8,5 +8,5 @@ https://cdnjs.com/libraries/font-awesome
 
 ===================================================
 
-
+C:\react\full-screen-video>npm init -y
 
