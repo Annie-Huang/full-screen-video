@@ -12,8 +12,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
 
 C:\react\full-screen-video>npm init -y
 
-
             <video src="video.mov" autoplay muted loop></video>
 
 
 The object-fit CSS property sets how the content of a replaced element, such as an <img> or <video>, should be resized to fit its container.
+
+Read the commit message to check what each effect is put into places
