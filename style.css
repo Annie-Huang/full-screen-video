@@ -55,6 +55,12 @@ h1 {
     min-height: 100%;
     /* similar to background-size for background image*/
     object-fit: cover;
+
+    /* This is force the image to resize whenever you resize the window   */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .content {
