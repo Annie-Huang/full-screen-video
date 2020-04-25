@@ -5,6 +5,7 @@ https://codepen.io/bradtraversy/pen/BaoWWjb
 https://github.com/Annie-Huang/full-screen-video
 
 https://cdnjs.com/libraries/font-awesome
+https://fonts.google.com/specimen/Open+Sans?query=open+sans
 
 ===================================================
 
